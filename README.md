@@ -16,4 +16,7 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ### Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
