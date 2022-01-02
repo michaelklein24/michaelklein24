@@ -6,3 +6,14 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 - :fireworks: My dream job is to program firework shows
 - :cat: The luckiest cat dad out there
 - :computer: I am currently developing my CSS3 animation skills
+
+![linkedinTag](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichaeljosephklein%2F)
+![PortfolioTag](https://img.shields.io/twitter/url?color=success&label=Portfolio&style=for-the-badge&url=https%3A%2F%2Finklein1997.github.io%2FProfessional-Portfolio-V2%2F)
+
+### Top Technologies
+
+
+### Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
