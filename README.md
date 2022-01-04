@@ -17,6 +17,10 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          2 hrs 20 mins   ███████████████░░░░░░░░░░   60.20 % 
+HTML         38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+JavaScript   35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 <!--END_SECTION:waka-->
