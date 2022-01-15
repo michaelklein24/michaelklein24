@@ -28,17 +28,6 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ## Stats
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
 <!--END_SECTION:waka-->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars,prs,issues,contribs)](https://github.com/inklein1997/github-readme-stats) -->
-=======
-```text
-JavaScript   24 hrs 28 mins  █████████████████░░░░░░░░   67.91 % 
-HTML         8 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.92 % 
-CSS          1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown     52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-<!--END_SECTION:waka-->
->>>>>>> 19e03f71180c7615645987e790ca48681410e95c
