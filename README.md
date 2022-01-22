@@ -7,10 +7,10 @@
 ## About Me
 I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the University of Texas at Austin!
 
-- :mortar_board: I have a B.S. in Biology and a minor in Chemistry
-- :fireworks: My dream job is to program firework shows
-- :cat: The luckiest cat dad out there
-- :computer: I am currently developing my CSS3 animation skills
+- :mortar_board: I have a B.S. in Biology and a minor in Chemistry.
+- :fireworks: My dream job is to program firework shows.
+- :cat: The luckiest cat dad out there :)
+- :computer: I am currently developing my CSS3 animation skills.
 
 ## Connect With Me!
 
