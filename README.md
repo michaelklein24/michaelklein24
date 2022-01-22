@@ -14,8 +14,8 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 
 ## Connect With Me!
 
-[![linkedIn Logo](./assets/images/linkedin-logo.png)](https://www.linkedin.com/in/michaeljosephklein/)
-[![gmail Logo](./assets/images/gmail-logo.png)](michaelklein1997@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/michaeljosephklein/
+- Email: michaelklein1997@gmail.com
 
 ## Top Technologies
 ![JavaScript Logo](./assets/images/javascript.png)
@@ -40,4 +40,4 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars,prs,issues,contribs)](https://github.com/inklein1997/github-readme-stats) -->
+<!-- [![inkleins's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars,prs,issues,contribs)](https://github.com/inklein1997/github-readme-stats) -->
