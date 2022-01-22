@@ -16,6 +16,7 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 
 - LinkedIn: https://www.linkedin.com/in/michaeljosephklein/
 - Email: michaelklein1997@gmail.com
+- Resume: https://docs.google.com/document/d/13wgjALPAew1QubTti2xNGs2z75RIJSjGPYnktDMlePk/edit?usp=sharing
 
 ## Top Technologies
 ![JavaScript Logo](./assets/images/javascript.png)
