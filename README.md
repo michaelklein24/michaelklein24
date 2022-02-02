@@ -33,11 +33,11 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   32 hrs 33 mins  █████████████████▒░░░░░░░   69.14 % 
-HTML         4 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-CSS          4 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Markdown     3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-SQL          1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JavaScript   36 hrs 57 mins  ████████████████████░░░░░   79.40 % 
+Markdown     3 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+HTML         2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+JSON         1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+SQL          1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
 
