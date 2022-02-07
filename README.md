@@ -34,4 +34,4 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- [![inkleins's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars,prs,issues,contribs)](https://github.com/inklein1997/github-readme-stats) -->
+[![inkleins's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars)](https://github.com/inklein1997/github-readme-stats)
