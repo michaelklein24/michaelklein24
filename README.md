@@ -25,7 +25,7 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ![ReactJS Logo](./assets/images/react-logo.png)
 ![NodeJS Logo](./assets/images/nodejs-logo.png)
 ![jQuery Logo](./assets/images/jQuery-logo.png)
-![Bootstrap Logo](./assets/images/bootstrap-logo.png)
+![Bootstrap Logo](./assets/images/Bootstrap-logo.png)
 ![Google Cloud Serives Logo](./assets/images/google-platform-logo.png)
 ![mySQL Logo](./assets/images/mySQL-logo.png)
 
