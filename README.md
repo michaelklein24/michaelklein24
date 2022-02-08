@@ -32,6 +32,13 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ## Stats
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   34 hrs 5 mins   █████████████████▒░░░░░░░   69.59 % 
+SQL          7 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Markdown     3 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+HTML         2 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+```
 <!--END_SECTION:waka-->
 
 [![inkleins's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars)](https://github.com/inklein1997/github-readme-stats)
