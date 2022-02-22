@@ -28,6 +28,8 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ![Bootstrap Logo](./assets/images/Bootstrap-logo.png)
 ![Google Cloud Serives Logo](./assets/images/google-platform-logo.png)
 ![mySQL Logo](./assets/images/mySQL-logo.png)
+![handlebars Logo](./assets/images/handlebars.png)
+![sequelize logo](./assets/images/sequelize-logo.png)
 
 ## Stats
 
