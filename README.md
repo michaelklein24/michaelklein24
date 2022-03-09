@@ -24,12 +24,14 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ![CSS3 Logo](./assets/images/css3-logo.png)
 ![ReactJS Logo](./assets/images/react-logo.png)
 ![NodeJS Logo](./assets/images/nodejs-logo.png)
+![MongoDB Logo](./assets/images/mongoDB-logo.png)
 ![jQuery Logo](./assets/images/jQuery-logo.png)
 ![Bootstrap Logo](./assets/images/Bootstrap-logo.png)
 ![Google Cloud Serives Logo](./assets/images/google-platform-logo.png)
 ![mySQL Logo](./assets/images/mySQL-logo.png)
 ![handlebars Logo](./assets/images/handlebars.png)
 ![sequelize logo](./assets/images/sequelize-logo.png)
+![webpack logo](./assets/images/webpack-logo.png)
 
 ## Stats
 
