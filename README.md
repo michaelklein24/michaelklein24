@@ -36,13 +36,16 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ## Stats 
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   38 hrs 1 min    ██████████████████▒░░░░░░   73.27 % 
-HTML         6 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Markdown     3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-CSS          2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JSON         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JavaScript   38 hrs 59 mins  ███████████████████░░░░░░   76.06 %
+CSS          5 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Markdown     3 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+JSON         2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+HTML         1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![inkleins's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklein1997&theme=tokyonight&hide=stars)](https://github.com/inklein1997/github-readme-stats)
