@@ -33,7 +33,7 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ![sequelize logo](./assets/images/sequelize-logo.png)
 ![webpack logo](./assets/images/webpack-logo.png)
 
-## Stats
+## Stats 
 
 <!--START_SECTION:waka-->
 ```text
