@@ -38,12 +38,12 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 <!--START_SECTION:waka-->
 
 ```text
-Java             18 hrs 35 mins  ███████████████████▓░░░░░   78.02 %
-JavaScript       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Markdown         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Properties       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-SQL              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Java             12 hrs 33 mins  ███████████████████░░░░░░   75.54 %
+JavaScript       1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Markdown         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+YAML             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Properties       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+SQL              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
