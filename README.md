@@ -40,8 +40,6 @@ I'm an a **Junior Web Developer** currently enrolled in a coding bootcamp at the
 ```text
 JavaScript   7 mins          █████████████████████████   99.92 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
