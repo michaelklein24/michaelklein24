@@ -1,10 +1,8 @@
 
 ![Banner Image](./assets/images/Banner-github.png)
 
-
 ## About Me
 :wave: Hi!  My name is Michael Klein and I am a **Full Stack Web Developer** with 3 years of development experience.
-
 - :mortar_board: I have a B.S. in Biology and a minor in Chemistry.
 - :fireworks: My dream job is to program firework shows.
 - :cat: The luckiest cat dad out there :)
